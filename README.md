@@ -13,11 +13,12 @@ Privatly I have few hobbies like survival, bushcrafting, military, motorcycles, 
 <br>
 
 ## 💻 My tech stack <br>
-<img align="left" alt="html5" src="https://intype.pl/icons/html5a.svg" width="50px"/>
-<img align="left" alt="html5" src="https://intype.pl/icons/css3a.svg" width="50px"/>
-<img align="left" alt="html5" src="https://intype.pl/icons/javascript.svg" width="70px"/>
-<img align="left" alt="html5" src="https://intype.pl/icons/wordpress.svg" width="70px"/>
-<img align="left" alt="html5" src="https://intype.pl/icons/angular.svg" width="70px"/>
+<img align="left" alt="html5" src="https://intype.pl/icons/html5a.svg" height="50px"/>
+<img align="left" alt="html5" src="https://intype.pl/icons/css3a.svg" height="50px"/>
+<img align="left" alt="html5" src="https://intype.pl/icons/sass.svg" height="50px"/>
+<img align="left" alt="html5" src="https://intype.pl/icons/javascript.svg" height="50px"/>
+<img align="left" alt="html5" src="https://intype.pl/icons/wordpress.svg" height="50px"/>
+<img align="left" alt="html5" src="https://intype.pl/icons/angular.svg" height="50px"/>
 <br><br><br><br>
 
 ## ⚠️ Information <br>
