@@ -4,7 +4,7 @@
 
   
 #  👨 About me
-My name is Bart and I working as frontend developer. I'm doing my job remotly from home in Bydgoszcz, Poland. <br /> 
+My name is Bart and I working as frontend developer with some backend skills. I'm doing my job remotly from home in Bydgoszcz, Poland. <br /> 
 I have a very smart dog, his name is Edison and he is Border Collie race. <br />
 Privatly I have few hobbies like survival, bushcrafting, military, motorcycles, travels and trekking. <br />
 
