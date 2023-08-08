@@ -8,7 +8,7 @@ My name is Bart and I working as frontend developer. I'm doing my job remotly fr
 I have a very smart dog, his name is Edison and he is Border Collie race. <br />
 Privatly I have few hobbies like survival, bushcrafting, military, motorcycles, travels and trekking. <br />
 
-<strong>More about me You can check in my Instagram:</strong> [🔗4noth3rlife](https://www.instagram.com/4noth3rlife/)
+<strong>More about me You can check on my Instagram:</strong> [🔗4noth3rlife](https://www.instagram.com/4noth3rlife/)
 
 <br>
 
