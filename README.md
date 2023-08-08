@@ -19,7 +19,15 @@ Privatly I have few hobbies like survival, bushcrafting, military, motorcycles, 
 <img align="left" alt="html5" src="https://intype.pl/icons/javascript.svg" height="50px"/>
 <img align="left" alt="html5" src="https://intype.pl/icons/wordpress.svg" height="50px"/>
 <img align="left" alt="html5" src="https://intype.pl/icons/angular.svg" height="50px"/>
-<br><br><br><br>
+
+<br><br><br>
+
+## 🚧 I'm currently working on
+- [DziubDziub - Advertisement webpage of online tool](https://github.com/Cybermurai/DziubDziub)
+<br>
 
 ## ⚠️ Information <br>
 This readme page is underconstruction.
+
+
+
