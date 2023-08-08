@@ -7,8 +7,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Privatly I have few hobbies like survival, bushcrafting, military, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;motorcycles, travels and trekking. <br />
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>More about me You can check in my Instagram:</strong>&nbsp;&nbsp;&nbsp;[4noth3rlife](https://www.instagram.com/4noth3rlife/)[<img align="right" alt="html5" src="https://intype.pl/icons/instagram.svg" width="28px"/>](https://www.instagram.com/4noth3rlife/)
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>More about me You can check in my Instagram:</strong> [🔗4noth3rlife](https://www.instagram.com/4noth3rlife/)
 
 
   
