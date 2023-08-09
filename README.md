@@ -34,6 +34,14 @@ Privatly I have few hobbies like survival, bushcrafting, military, motorcycles, 
 - [🔗PKT.PL](https://www.pkt.pl/)
 <br>
 
+## 👨‍💻 Latest projects <br>
+- [Lisi projekt - Custom-made furniture design](https://projekt2.intype.pl/)
+- [Gigant Pizza - Pizza restaurant](https://gigantpizza.pl/)
+- [Dream House - Interior design](https://projekt6.intype.pl/)
+- [Paulina Krygier - Hairdresser and make-up artist](https://projekt3.intype.pl/)
+- [Open Lock - Marketing agency](https://projekt4.intype.pl/)
+  <br>
+  
 ## ⚠️ Information <br>
 This readme page is underconstruction.
 
