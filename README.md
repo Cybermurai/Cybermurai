@@ -29,9 +29,9 @@ Privatly I have few hobbies like survival, bushcrafting, military, motorcycles, 
   <br><br>
 
 ## 👨‍💼 My latest workplaces <br>
-- [🔗Sellace](https://sellace.pl/)
-- [🔗ICEA](https://www.grupa-icea.pl/)
-- [🔗PKT.PL](https://www.pkt.pl/)
+- [Sellace](https://sellace.pl/)
+- [ICEA](https://www.grupa-icea.pl/)
+- [PKT.PL](https://www.pkt.pl/)
 <br><br>
 
 ## 👨‍💻 Latest projects <br>
@@ -42,8 +42,10 @@ Privatly I have few hobbies like survival, bushcrafting, military, motorcycles, 
 - [Open Lock - Marketing agency](https://projekt4.intype.pl/)
   <br><br>
   
-## ⚠️ Information <br>
-This readme page is underconstruction.
+## 📧 Feel free to contact with me <br>
+- <strong>Email:</strong> [bszewczyk@intype.pl](mailto:bszewczyk@intype.pl)
+- <strong>Telephone/WhatsApp:</strong> +48 510-922-448
+- <strong>Instagram:</strong> [4noth3rlife](https://www.instagram.com/4noth3rlife/)
 
 
 
