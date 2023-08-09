@@ -24,6 +24,12 @@ Privatly I have few hobbies like survival, bushcrafting, military, motorcycles, 
 
 ## 🚧 I'm currently working on
 - [DziubDziub - Advertisement webpage of online tool](https://github.com/Cybermurai/DziubDziub)
+  <br>
+
+## 👨‍💼 My latest workplaces <br>
+- [🔗Sellace](https://sellace.pl/)
+- [🔗ICEA](https://www.grupa-icea.pl/)
+- [🔗PKT.PL](https://www.pkt.pl/)
 <br>
 
 ## ⚠️ Information <br>
