@@ -23,7 +23,7 @@ I have a very smart dog, his name is Edison and he is Border Collie race. <br />
 <img align="left" alt="git" src="https://intype.pl/icons/gitlab.svg" height="50px"/>
 <img align="left" alt="npm" src="https://intype.pl/icons/npm.svg" height="50px"/>
 
-<br><br><br>
+<br><br><br><br><br><br>
 
 ## 🚧 I'm currently working on
 - [DziubDziub - Advertisement webpage of online tool](https://github.com/Cybermurai/DziubDziub)
