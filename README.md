@@ -23,17 +23,20 @@ I have a very smart dog, his name is Edison and he is Border Collie race. <br />
 <img align="left" alt="git" src="https://intype.pl/icons/gitlab.svg" height="50px"/>
 <img align="left" alt="npm" src="https://intype.pl/icons/npm.svg" height="50px"/>
 
-<br><br><br><br><br><br>
+<br><br><br><br>
+
 
 ## 🚧 I'm currently working on
 - [DziubDziub - Advertisement webpage of online tool](https://github.com/Cybermurai/DziubDziub)
   <br><br>
+
 
 ## 👨‍💼 My latest workplaces <br>
 - [Sellace](https://sellace.pl/)
 - [ICEA](https://www.grupa-icea.pl/)
 - [PKT.PL](https://www.pkt.pl/)
 <br><br>
+
 
 ## 👨‍💻 Latest projects <br>
 - [Lisi projekt - Custom-made furniture design](https://projekt2.intype.pl/)
@@ -42,6 +45,7 @@ I have a very smart dog, his name is Edison and he is Border Collie race. <br />
 - [Paulina Krygier - Hairdresser and make-up artist](https://projekt3.intype.pl/)
 - [Open Lock - Marketing agency](https://projekt4.intype.pl/)
   <br><br>
+
   
 ## 📧 Feel free to contact with me <br>
 - <strong>Email:</strong> [bszewczyk@intype.pl](mailto:bszewczyk@intype.pl)
