@@ -38,7 +38,7 @@ I have a very smart dog, his name is Edison and he is Border Collie race. <br />
 <br><br>
 
 
-## 👨‍💻 Latest projects <br>
+## 👨‍💻 Older projects <br>
 - [Lisi projekt - Custom-made furniture design](https://projekt2.intype.pl/)
 - [Gigant Pizza - Pizza restaurant](https://gigantpizza.pl/)
 - [Dream House - Interior design](https://projekt6.intype.pl/)
