@@ -27,11 +27,6 @@ I have a very smart dog, his name is Edison and he is Border Collie race. <br />
 <br><br><br><br>
 
 
-## 🚧 I'm currently working on
-- [DziubDziub - Advertisement webpage of online tool](https://github.com/Cybermurai/DziubDziub)
-  <br><br>
-
-
 ## 👨‍💼 My latest workplaces <br>
 - [Sellace](https://sellace.pl/)
 - [ICEA](https://www.grupa-icea.pl/)
