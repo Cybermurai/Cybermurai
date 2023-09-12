@@ -26,7 +26,6 @@ I have a very smart dog, his name is Edison and he is Border Collie race. <br />
 
 <br><br><br><br>
 
-
 ## 👨‍💼 My latest workplaces <br>
 - [Sellace](https://sellace.pl/)
 - [ICEA](https://www.grupa-icea.pl/)
