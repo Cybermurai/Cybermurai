@@ -14,15 +14,15 @@ I have a very smart dog, his name is Edison and he is Border Collie race. <br />
 <br>
 
 ## 💻 My tech stack <br>
-<img align="left" alt="html5" src="https://intype.pl/icons/html5a.svg" height="50px"/>
-<img align="left" alt="css3" src="https://intype.pl/icons/css3a.svg" height="50px"/>
-<img align="left" alt="sass" src="https://intype.pl/icons/sass.svg" height="50px"/>
-<img align="left" alt="js" src="https://intype.pl/icons/javascript.svg" height="50px"/>
-<img align="left" alt="wp" src="https://intype.pl/icons/wordpress.svg" height="50px"/>
-<img align="left" alt="angular" src="https://intype.pl/icons/angular.svg" height="50px"/>
-<img align="left" alt="npm" src="https://intype.pl/icons/ionic.svg" height="50px"/>
-<img align="left" alt="phaser3" src="https://intype.pl/icons/phaser3.png" height="50px"/>
-<img align="left" alt="npm" src="https://intype.pl/icons/npm.svg" height="50px"/>
+<img align="left" title="HTML5" alt="html5" src="https://intype.pl/icons/html5a.svg" height="50px"/>
+<img align="left" title="CSS3" alt="css3" src="https://intype.pl/icons/css3a.svg" height="50px"/>
+<img align="left" title="SASS" alt="sass" src="https://intype.pl/icons/sass.svg" height="50px"/>
+<img align="left" title="JS" alt="js" src="https://intype.pl/icons/javascript.svg" height="50px"/>
+<img align="left" title="WordPress" alt="wp" src="https://intype.pl/icons/wordpress.svg" height="50px"/>
+<img align="left" title="Angular" alt="angular" src="https://intype.pl/icons/angular.svg" height="50px"/>
+<img align="left" title="IONIC" alt="npm" src="https://intype.pl/icons/ionic.svg" height="50px"/>
+<img align="left" title="Phaser 3" alt="phaser3" src="https://intype.pl/icons/phaser3.png" height="50px"/>
+<img align="left" title="NPM" alt="npm" src="https://intype.pl/icons/npm.svg" height="50px"/>
 
 <br><br><br><br>
 
