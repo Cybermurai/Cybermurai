@@ -9,7 +9,6 @@ I'm doing my job remotly from home in Bydgoszcz, Poland. <br />
 Privatly I have few hobbies like survival, bushcrafting, military, motorcycles, travels and trekking. <br />
 I have a very smart dog, his name is Edison and he is Border Collie race. <br />
 
-<img alt="instagram" src="https://intype.pl/icons/instagram.svg" height="16px"/> <strong>More about me You can check on my Instagram:</strong> [🔗4noth3rlife](https://www.instagram.com/4noth3rlife/)
 
 <br>
 
