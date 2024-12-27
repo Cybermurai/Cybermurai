@@ -44,7 +44,7 @@ I have a very smart dog, his name is Edison and he is Border Collie race. <br />
 ## 📧 Feel free to contact with me <br>
 - <strong>Email:</strong> [bszewczyk@intype.pl](mailto:bszewczyk@intype.pl)
 - <strong>Telephone/WhatsApp:</strong> +48 510-922-448
-- <strong>Instagram:</strong> [4noth3rlife](https://www.instagram.com/4noth3rlife/)
+- <strong>Instagram:</strong> [intype.ceo](https://www.instagram.com/intype.ceo/)
 
 
 
