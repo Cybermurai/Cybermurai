@@ -39,7 +39,7 @@ I have a very smart dog, his name is Edison and he is Border Collie race. <br />
 - [Open Lock - Marketing agency](https://projekt4.intype.pl/)
   <br><br>
 
-  
+
 ## 📧 Feel free to contact with me <br>
 - <strong>Email:</strong> [bszewczyk@intype.pl](mailto:bszewczyk@intype.pl)
 - <strong>Telephone/WhatsApp:</strong> +48 510-922-448
